@@ -18,3 +18,4 @@ public class PalindromeRecursive {
             System.out.println(testStr + " is NOT a palindrome.");
         }
     }
+}
